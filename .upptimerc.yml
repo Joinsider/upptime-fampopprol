@@ -7,6 +7,8 @@ sites:
     url: https://dsm.fampopprol.me
   - name: Dashy
     url: https://dashy.fampopprol.me 
+  - name: 404-Test
+    url: https://404.fampopprol.me
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
