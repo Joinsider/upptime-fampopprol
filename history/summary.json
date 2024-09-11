@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 786,
-    "timeDay": 786,
-    "timeWeek": 786,
-    "timeMonth": 786,
-    "timeYear": 786,
+    "time": 778,
+    "timeDay": 778,
+    "timeWeek": 778,
+    "timeMonth": 778,
+    "timeYear": 778,
     "dailyMinutesDown": {}
   },
   {
@@ -28,31 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 267,
-    "timeDay": 267,
-    "timeWeek": 267,
-    "timeMonth": 267,
-    "timeYear": 267,
+    "time": 247,
+    "timeDay": 247,
+    "timeWeek": 247,
+    "timeMonth": 247,
+    "timeYear": 247,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "404-Test",
-    "url": "https://404.fampopprol.me",
-    "icon": "https://icons.duckduckgo.com/ip3/404.fampopprol.me.ico",
-    "slug": "404-test",
-    "status": "down",
-    "uptime": "7.93%",
-    "uptimeDay": "7.93%",
-    "uptimeWeek": "7.93%",
-    "uptimeMonth": "7.93%",
-    "uptimeYear": "7.93%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2024-09-11": 0
-    }
   }
 ]
